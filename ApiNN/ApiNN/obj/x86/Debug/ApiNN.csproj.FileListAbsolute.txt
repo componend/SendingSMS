@@ -1,0 +1,17 @@
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\ApiNN.exe.config
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\ApiNN.exe
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\ApiNN.pdb
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.csproj.AssemblyReference.cache
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.ana.resources
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.Properties.Resources.resources
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.csproj.GenerateResource.cache
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.csproj.CoreCompileInputs.cache
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.exe
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.pdb
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\EntityFramework.dll
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\EntityFramework.xml
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.csproj.CopyComplete
+C:\Users\ÇAYIR\OneDrive\Masaüstü\C#\ApiNN\ApiNN\obj\x86\Debug\ApiNN.Migrations.init.resources
